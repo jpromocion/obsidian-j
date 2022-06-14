@@ -1,6 +1,7 @@
 {
     "name": "obsidian-j",
     "displayName": "obsidian j",
+    "publisher": "jpromocion",
     "description": "Obsidian variant",
     "version": "0.0.1",
     "engines": {
