@@ -1,0 +1,21 @@
+{
+    "name": "obsidian-j",
+    "displayName": "obsidian j",
+    "description": "Obsidian variant",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Obsidian J",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Obsidian J-color-theme.json"
+            }
+        ]
+    }
+}
