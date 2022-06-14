@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "obsidian-j"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Obsidian Theme ++
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Obsidian based theme "Obsidian Theme for VSCode" and "One Monokai Theme".
+* Menus of "Obsidian Theme for VSCode".
+* Syntax witch structure of "One Monokai Theme", but colors of "Obsidian Theme for VSCode"
+Test with: plsql, java, xml, jsp.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
 
-**Enjoy!**
+Go to Extensions, search for obsidian-j in Themes and click install.
