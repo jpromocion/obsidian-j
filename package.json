@@ -1,9 +1,9 @@
 {
     "name": "obsidian-j",
-    "displayName": "obsidian j",
+    "displayName": "Obsidian J",
     "publisher": "jpromocion",
-    "description": "Obsidian variant",
-    "version": "0.0.1",
+    "description": "Obsidian variant (obsidian-j-syntax for atom)",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.68.0"
     },
