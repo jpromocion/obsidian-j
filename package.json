@@ -2,14 +2,21 @@
     "name": "obsidian-j",
     "displayName": "Obsidian J",
     "publisher": "jpromocion",
-    "description": "Obsidian variant (obsidian-j-syntax for atom)",
+    "description": "Obsidian theme variant (obsidian-j-syntax for atom)",
+    "license": "SEE LICENSE IN LICENSE",
     "version": "1.0.0",
+    "icon": "screenshots/iconJ.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jpromocion/obsidian-j"
+    },
     "engines": {
         "vscode": "^1.68.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": ["obsidian", "theme", "dark", "obsidian-j", "obsidian-j-syntax"],
     "contributes": {
         "themes": [
             {
