@@ -4,7 +4,7 @@
     "publisher": "jpromocion",
     "description": "Obsidian theme variant (obsidian-j-syntax for atom)",
     "license": "SEE LICENSE IN LICENSE",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "screenshots/iconJ.png",
     "repository": {
         "type": "git",
