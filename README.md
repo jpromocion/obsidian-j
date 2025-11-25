@@ -1,4 +1,7 @@
 # Obsidian Theme VS Code
+![License: GPL 3.0](https://img.shields.io/badge/License-%20GPL%203.0-green.svg)
+![JSON](https://img.shields.io/badge/JSON-%20-orange)
+[![Dona PayPal](https://img.shields.io/badge/Dona-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=S2CX67ZD5C97C)
 
 Obsidian theme for VS Code based theme "Obsidian Theme for VSCode" and "One Monokai Theme".
 * Menus of "Obsidian Theme for VSCode".
